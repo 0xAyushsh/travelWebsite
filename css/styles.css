@@ -1,0 +1,22 @@
+.navbar-brand img{
+    width: 6vw;
+}
+
+.carousel-item img {
+    max-height: 670px;
+  }
+
+
+.travel-packages{
+    background-image: url(../images/packageBG.jpg);
+    background-attachment: fixed;
+}
+
+.review-section{
+    background-image: url(../images/reviewBG.jpg);
+    background-attachment: scroll;
+}
+
+footer{
+    background-color: black;
+}
